@@ -1,0 +1,12 @@
+{
+    "version": "1.1.7",
+
+"configurations":[
+    {
+        "type":"msedge",
+        "request":"launch",
+        "name": "open js.html",
+        "file": "c:/users//Dell//Documents//js//js.html"
+    }
+]
+}
